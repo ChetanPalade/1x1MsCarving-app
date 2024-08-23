@@ -1,0 +1,58 @@
+th {
+    text-align: center;
+}
+.container-cart{
+  height: 100vh;
+}
+
+.container-heading{
+  padding: 10px;
+  background-image: url("https://img.freepik.com/free-photo/male-hand-with-pen_155003-6453.jpg");
+  width:100%;
+  height: 15vh;
+  font-size: 30px;
+  text-align: underline;
+}
+.cart_img-box {
+  width: 100%;
+}
+  
+.cart_img-box img {
+  width: 100%;
+  height: 100vh;
+}
+  
+.cart_item-del i {
+  cursor: pointer;
+}
+  
+.cart_page-btn {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 2rem 0;
+}
+  
+.cart_page-btn button a:hover {
+  color: #fff;
+}
+  
+.cart_subtotal {
+  color: #df2020;
+  font-size: 1.5rem;
+}
+  
+.addTOCart_btn {
+  border: none;
+  padding: 7px 25px;
+  background: #df2020;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 0.9rem;
+}
+  
+@media only screen and (max-width: 768px) {
+    th,
+    td {
+      font-size: 0.8rem;
+    }
+}

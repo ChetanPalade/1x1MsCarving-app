@@ -1,0 +1,86 @@
+/* Container for the About page content */
+.about-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* About page title */
+.about-container h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Subtitle or section headings */
+.about-container h2 {
+    font-size: 28px;
+    color: #555;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* General paragraph text styling */
+.about-container p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #666;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+/* Styling for images */
+.about-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Link styling */
+.about-container a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.about-container a:hover {
+    color: #0056b3;
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+    .about-container {
+        padding: 15px;
+    }
+
+    .about-container h1 {
+        font-size: 28px;
+    }
+
+    .about-container h2 {
+        font-size: 24px;
+    }
+
+    .about-container p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .about-container h1 {
+        font-size: 24px;
+    }
+
+    .about-container h2 {
+        font-size: 20px;
+    }
+
+    .about-container p {
+        font-size: 14px;
+    }
+}

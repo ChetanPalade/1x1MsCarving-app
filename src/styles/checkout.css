@@ -1,0 +1,63 @@
+.checkoutMessage {
+    width: fit-content;
+    margin: 1rem auto;
+    height: 90vh;
+    padding: 10px;
+  }
+  
+.checkoutIcon {
+    width: 3rem;
+    color: #4bb543;
+    height: 3rem;
+}
+
+.thankyou-sec{
+  font-size: 300;
+  color: black;
+  padding: 10px;
+ } 
+
+.checkoutTitleContainer {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.7rem;
+}
+  
+@media only screen and (max-width: 480px) {
+  .checkoutMessage {
+      margin: 1rem 1rem;
+  }
+}
+
+.pay-btn{
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-weight:300;
+  padding: 10px 0px;
+  font-size: 18px;
+  background-color: #106a94;
+  border-radius: 20px;
+  cursor: pointer;
+  width: 15vw;
+  transition: background-color 0.3s ease;
+}
+
+
+  
+.pay-btn:hover {
+  background: #4bb543;
+}
+  
+.pay-btn:hover a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 576px) {
+  .pay-btn {
+    font-size: 16px;
+    padding: 12px 25px;
+  }
+}
+

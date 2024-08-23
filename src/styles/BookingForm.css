@@ -1,0 +1,93 @@
+/* Container for the entire booking form */
+.booking-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+/* Heading for the booking form */
+.booking-form-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+/* Style for text inputs and select dropdowns */
+.booking-form-container input[type="text"],
+.booking-form-container input[type="datetime-local"],
+.booking-form-container select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Style for the checkbox label */
+.booking-form-container label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+}
+
+.booking-form-container label input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Button styling */
+.booking-form-container button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.booking-form-container button:hover {
+    background-color: #0056b3;
+}
+
+/* Price display styling */
+.booking-form-container p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 600px) {
+    .booking-form-container {
+        padding: 15px;
+        max-width: 90%;
+    }
+
+    .booking-form-container h2 {
+        font-size: 20px;
+    }
+
+    .booking-form-container button {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .booking-form-container input[type="text"],
+    .booking-form-container input[type="datetime-local"],
+    .booking-form-container select {
+        font-size: 14px;
+    }
+}
