@@ -1,3 +1,37 @@
+
+
+1 x 1 Scheduler App
+Features:
+Here's features included in this project
+Add to cart functionality
+Shopping cart functionality
+Product Filtering functionality
+Product page
+Cart and checkout page
+Contact page
+Awesome modern minimalist UI
+
+Technologies Used:
+Node.js
+MySqL
+React.js
+Redux Toolkit
+ReactStrap
+CSS
+
+How to start?
+To start the project along with me just download the start-up file and run available script
+// first install all necessary dependencies
+
+npm i
+
+// next run
+
+npm start
+
+![Screenshot (728)](https://github.com/user-attachments/assets/b97f7c33-8967-4e2b-9557-7f5d1f53706a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
