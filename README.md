@@ -28,8 +28,6 @@ npm i
 // next run
 
 npm start
-![Screenshot (728)](https://github.com/user-attachments/assets/ae2d4803-7bb3-4fc4-a39f-700655f6e576)
-
 ![Screenshot (729)](https://github.com/user-attachments/assets/ab0bf15c-6216-4cc8-a8a2-215718b840b7)
 
 ![Screenshot (730)](https://github.com/user-attachments/assets/050d226b-6c35-48cb-8545-2e9025677550)
