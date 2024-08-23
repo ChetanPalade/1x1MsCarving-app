@@ -28,10 +28,21 @@ npm i
 // next run
 
 npm start
+![Screenshot (728)](https://github.com/user-attachments/assets/ae2d4803-7bb3-4fc4-a39f-700655f6e576)
 
-![Screenshot (728)](https://github.com/user-attachments/assets/b97f7c33-8967-4e2b-9557-7f5d1f53706a)
+![Screenshot (729)](https://github.com/user-attachments/assets/ab0bf15c-6216-4cc8-a8a2-215718b840b7)
 
+![Screenshot (730)](https://github.com/user-attachments/assets/050d226b-6c35-48cb-8545-2e9025677550)
 
+![Screenshot (731)](https://github.com/user-attachments/assets/7dd9d2f8-ff14-499e-b594-89f73bf61e2e)
+
+![Screenshot (732)](https://github.com/user-attachments/assets/e3db7155-a482-4431-8612-75b81c646f4b)
+
+![Screenshot (733)](https://github.com/user-attachments/assets/621c31e9-98ec-44b5-a023-65996f1e7aa7)
+
+![Screenshot (734)](https://github.com/user-attachments/assets/3d3c053a-8b71-4af0-aa0c-c826eaac3e25)
+![Screenshot (735)](https://github.com/user-attachments/assets/4c3f5024-0516-4024-92cd-14cc7b7a84a5)
+![Screenshot (736)](https://github.com/user-attachments/assets/898a10c3-40e6-4f98-a815-1896c9aeaafc)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
